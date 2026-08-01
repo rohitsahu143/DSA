@@ -11,11 +11,13 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rohitsahu143/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/rohitsahu143/DSA/tree/master/0086-partition-list) |
 | [0203-remove-linked-list-elements](https://github.com/rohitsahu143/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/rohitsahu143/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohitsahu143/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/rohitsahu143/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/rohitsahu143/DSA/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -28,4 +30,9 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/rohitsahu143/DSA/tree/master/0086-partition-list) |
+| [0234-palindrome-linked-list](https://github.com/rohitsahu143/DSA/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rohitsahu143/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
