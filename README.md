@@ -8,6 +8,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rohitsahu143/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/rohitsahu143/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rohitsahu143/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/rohitsahu143/DSA/tree/master/0086-partition-list) |
@@ -30,6 +31,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rohitsahu143/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/rohitsahu143/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/rohitsahu143/DSA/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/rohitsahu143/DSA/tree/master/0234-palindrome-linked-list) |
