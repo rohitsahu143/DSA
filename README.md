@@ -26,10 +26,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rohitsahu143/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/rohitsahu143/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rohitsahu143/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/rohitsahu143/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
