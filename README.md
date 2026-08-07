@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/rohitsahu143/DSA/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/rohitsahu143/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/rohitsahu143/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rohitsahu143/DSA/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/rohitsahu143/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
