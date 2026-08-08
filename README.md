@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rohitsahu143/DSA/tree/master/0053-maximum-subarray) |
 | [0704-binary-search](https://github.com/rohitsahu143/DSA/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/rohitsahu143/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/rohitsahu143/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/rohitsahu143/DSA/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rohitsahu143/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rohitsahu143/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
