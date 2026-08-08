@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rohitsahu143/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rohitsahu143/DSA/tree/master/0053-maximum-subarray) |
 | [0704-binary-search](https://github.com/rohitsahu143/DSA/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/rohitsahu143/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -48,10 +49,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rohitsahu143/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/rohitsahu143/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rohitsahu143/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rohitsahu143/DSA/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
